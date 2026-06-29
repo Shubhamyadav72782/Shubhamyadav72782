@@ -22,3 +22,15 @@ Hi👋I'm Shubham Yadav <br>I'm a developer who enjoys learning new technologies
 [![](https://komarev.com/ghpvc/?username=Shubhamyadav72782&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shubhamyadav72782/Shubhamyadav72782/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shubhamyadav72782/Shubhamyadav72782/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
